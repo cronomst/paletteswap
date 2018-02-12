@@ -16,11 +16,11 @@ Replaces all of the colors in an image with the closet colors from another image
 
 #### Linux/Mac
 
-`java palette/Main \<palette source image\> \<target image\> \<output image\>`
+`java palette/Main <palette source image> <target image> <output image>`
 
 #### Windows
 
-`java palette\Main \<palette source image\> \<target image\> \<output image\>`
+`java palette\Main <palette source image> <target image> <output image>`
 
 For example, if the current directory has two image files palette.png and target.png...
 
